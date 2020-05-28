@@ -1,0 +1,11 @@
+# The build folder
+build/
+
+# The ImGUI ini files
+*.ini
+
+# Emacs configuration files
+.emacs/
+
+# Visual Studio Code configuration files
+.vscode/
