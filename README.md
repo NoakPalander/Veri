@@ -1,7 +1,8 @@
 # Veri & VeriPy
 ![Veri-logo](resources/Logos/veri.png)
 
-Veri is a minimalistic and simple RPG-Game engine developed in C++, for Python.
+Veri is a minimalistic and simple RPG-Game engine developed in C++, for Python. It was built as a high school project in 2 weeks, where the aim was to be able to create simple games in python running a C++ backend.
+
 It utilizes some popular 3d party libraries, all but 1 built within the project itself
   - [SFML 2.5.1](https://www.sfml-dev.org/)
   - [Pybind11](https://github.com/pybind/pybind11)
